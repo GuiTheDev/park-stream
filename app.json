@@ -7,7 +7,7 @@
         "extension",
         "review"
     ],
-    "repository": "https://github.com/GuiTheDev/park-stream/,
+    "repository": "https://github.com/GuiTheDev/park-stream/",
     },
     "stack": "container",
     "formation": {
