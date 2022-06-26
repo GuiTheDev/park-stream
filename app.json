@@ -8,6 +8,11 @@
         "review"
     ],
     "repository": "https://github.com/GuiTheDev/park-stream/",
+    "env": {
+        "TWITCH_STREAMKEY": {
+            "description": "Twitch Stream key (found at https://www.twitch.tv/dashboard/settings)",
+            "required": false
+        }
     },
     "stack": "container",
     "formation": {
